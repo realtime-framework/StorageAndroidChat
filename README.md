@@ -1,7 +1,7 @@
 ## The Realtime Cloud Storage Group Chat example for Android (Java) 
 This example uses the Realtime Cloud Storage Android SDK to save and retrieve group chat messages from the cloud. This sample uses the Mobile Push Notifications feature to engage offline users when new messages are available.
 
-This application can be used to chat with users using the iOS app available at [https://github.com/realtime-framework/Storage/tree/master/group-chat-ios](https://github.com/realtime-framework/Storage/tree/master/group-chat-ios)
+This application can be used to chat with users using the iOS app available at [https://github.com/realtime-framework/StorageiOSChat](https://github.com/realtime-framework/StorageiOSChat)
 
 ![Group chat](http://storage-public.realtime.co/screenshots/groupchat-android-1.png)
 ![Group chat](http://storage-public.realtime.co/screenshots/groupchat-android-2.png)
